@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DsK.WebAPI2", "DsK.WebAPI2\DsK.WebAPI2.csproj", "{A921BD6A-88A2-48C5-82FD-E650898C0699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DsK.WebAPI1", "DsK.WebAPI1\DsK.WebAPI1.csproj", "{46180746-7114-4332-9D73-09ABA1C2FC30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A921BD6A-88A2-48C5-82FD-E650898C0699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A921BD6A-88A2-48C5-82FD-E650898C0699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A921BD6A-88A2-48C5-82FD-E650898C0699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A921BD6A-88A2-48C5-82FD-E650898C0699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46180746-7114-4332-9D73-09ABA1C2FC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46180746-7114-4332-9D73-09ABA1C2FC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46180746-7114-4332-9D73-09ABA1C2FC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46180746-7114-4332-9D73-09ABA1C2FC30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DE10D4E-4AAA-4AF3-B88E-7981B1315AE0}
+	EndGlobalSection
+EndGlobal
